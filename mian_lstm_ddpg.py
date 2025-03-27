@@ -20,7 +20,7 @@ from Replay_buffer import ReplayBuffer
 # import joint_3c_scenario.scenario as scenarios
 from model_lstm import DDPG
 #from model_ddpg import DDPG
-from Two_MEC_env.environment import MultiAgentEnv
+from environment import MultiAgentEnv
 
 
 
