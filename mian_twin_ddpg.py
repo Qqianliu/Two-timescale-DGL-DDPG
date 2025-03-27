@@ -19,7 +19,7 @@ from arguments import parse_args
 from Replay_buffer import ReplayBuffer
 from model_twinddpg import DDPG
 # from model_ddpg import DDPG
-from Two_MEC_env.environment import MultiAgentEnv
+from environment import MultiAgentEnv
 
 
 def train(arglist):
